@@ -25,14 +25,4 @@ class Program
         Console.WriteLine($"Hello, {name}!");
 
     }
-
-
-    static void GreetUser(string name)
-
-    {
-
-            Console.WriteLine($"Hello, friend!");
-
-    }
-
 }
