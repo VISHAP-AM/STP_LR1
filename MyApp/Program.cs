@@ -26,4 +26,13 @@ class Program
 
     }
 
+
+    static void GreetUser(string name)
+
+    {
+
+            Console.WriteLine($"Hello, friend!");
+
+    }
+
 }
